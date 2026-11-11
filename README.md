@@ -1,4 +1,4 @@
-# Hi there, I'm Jaafar Nazem Maatouk 👋
+# Hi, I'm Jaafar Nazem Maatouk 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Desktop+Developer;C%2B%2B+%7C+C%23+%7C+.NET+%7C+SQL+Server;Algorithms+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
