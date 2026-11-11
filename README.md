@@ -10,7 +10,7 @@
 
 I am a highly motivated **5th-year Software Engineering student** at **Al Sham Private University (ASPU)**, located in Damascus Countryside, Syria. I have a deep passion for building clean, efficient, and well-architected software.
 
-Over the past **1 year and 10 months**, I dedicated myself to mastering software development by following the **ProgrammingAdvices Roadmap** led by **Dr. Mohammed Abu-Hadhoud**. I successfully completed **21 courses** in this roadmap, which built a solid foundation in my programming journey.
+Over the past **2 years**, I dedicated myself to mastering software development by following the **ProgrammingAdvices Roadmap** led by **Dr. Mohammed Abu-Hadhoud**. I successfully completed **21 courses** in this roadmap, which built a solid foundation in my programming journey.
 
 I consider myself a **Full-Stack Desktop Developer**, capable of building complete applications from the ground up, including the UI, the business logic, and the database integration.
 
