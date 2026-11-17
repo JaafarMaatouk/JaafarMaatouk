@@ -82,5 +82,5 @@ A desktop application simulating a restaurant ordering system. It dynamically ca
 I am always eager to learn, collaborate, and discuss software development. Feel free to reach out:
 
 - 📧 **Email:** [ jfrmtwq443@gmail.com ]
-- 💼 **LinkedIn:** [ ]
+- 💼 **LinkedIn:** [ https://www.linkedin.com/in/jaafar-nazem-maatouk]
 - 📍 **Location:** Damascus Countryside, Syria
